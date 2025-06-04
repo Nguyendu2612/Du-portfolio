@@ -15,6 +15,12 @@ Data were gathered through an audit approach — collecting receipts, counting c
 ## *Output:*
 - Estimated weekly and monthly revenue
 - Estimated weekly and monthly traffic
+## *Dashboard:*
+### Log-in Page
+![](Image/Fama/Begin.png)
+### Detail
+![](Image/Fama/Page 1.2.png)
+
 # [Project 2: Retail Basket Analytics]
 ## *Project Overview:*
 Project used an in-house app (with AI OCR) to collect user receipts.
