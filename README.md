@@ -1,4 +1,4 @@
-# Nguyen Thanh Du Dashboard's Portfolio
+# Dashboard's Portfolio
 *For confidentiality reasons related to previous projects, the data (brand) shown is fake and for reference only.*
 # [Project 1: Competitor Analysis Dashboard]
 ## *Project Overview:*
@@ -17,10 +17,13 @@ Data were gathered through an audit approach — collecting receipts, counting c
 - Estimated weekly and monthly traffic
 ## *Dashboard:*
 ### Log-in Page
-![](Image/Fama/Begin.png)
-### Detail
-![](Image/Fama/Page 1.2.png)
-
+![Log-in Page](Image/Fama/Begin.png)
+### Analytics Page
+![Analytics Page](Image/Fama/1.png)
+### Detailed Page
+![Detailed Page](Image/Fama/1.2.png)
+### Tooltip Page
+![Tooltip Page](Image/Fama/1.3.png)
 # [Project 2: Retail Basket Analytics]
 ## *Project Overview:*
 Project used an in-house app (with AI OCR) to collect user receipts.
@@ -40,6 +43,10 @@ Project used an in-house app (with AI OCR) to collect user receipts.
 - Average order value
 - Average categories per transaction
 - Cross-selling analysis (co-occurrence rate of two products in one basket)
+## *Dashboard:*
+![](Image/Lotte/1.png)
+![](Image/Lotte/2.png)
+![](Image/Lotte/3.png)
 # [Project 3: Store Promotion Report]
 ## *Project Overview:*
 Collected store-level data through mystery shopping: surveyed sellers on Milo SKU prices (per client brief) and recorded whether POSM materials (standee, booth, pallet) were present.
@@ -50,3 +57,12 @@ Collected store-level data through mystery shopping: surveyed sellers on Milo SK
 ## *Output:*
 - Presence rates of Milo SKUs and POSM types across stores.
 - Sellers’ perceptions of Milo products compared with market alternatives.
+## *Dashboard:*
+### Log-in Page
+![Log-in Page](Image/Milo/1.png)
+### Summary Page
+![Summary Page](Image/Milo/2.png)
+### Detail Page
+![Detail Page](Image/Milo/3.png)
+### MAP Page
+![MAP Page](Image/Milo/4.png)
