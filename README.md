@@ -6,16 +6,19 @@
 Data were gathered through an audit approach — collecting receipts, counting customer traffic in predefined time slots agreed with the client, scanning each receipt with the company tool, and capturing all key fields.
 ## *My Role:*
 Clarified Client's requirements and desired outputs.<br>
-Cleaning Data:
+Cleaning Data
 - Cleaned ~100 receipts over a two-week collection period.
 - Reviewed video footage to tally store foot traffic.
-- Used Power Query to re-clean the dataset and set proper data types.
+- Used Power Query to re-clean the dataset and set proper data types.<br>
+
 Building model and creating Dashboard:
 - Built a data model, dimenstion to establish relationships for analysis.
-- Wrote DAX measures, drill through to create interactive dashboards and give insights.<br>
+- Wrote DAX measures, drill through to create interactive dashboards and give insights.
+
 ## *Output:*
 - Estimated weekly and monthly revenue
 - Estimated weekly and monthly traffic<br>
+
 ## *Dashboard:*
 ### Log-in Page
 ![Log-in Page](Image/Fama/Begin.png)
@@ -30,14 +33,16 @@ Building model and creating Dashboard:
 ## *Project Overview:*
 Project used an in-house app (with AI OCR) to collect user receipts.
 ## *My Role:*
-1. Data cleaning & mapping
+Data cleaning & mapping
 - Standardized and mapped ~550 receipts to the product master list.
 - Created new master records (industry / category / class / sub-class) for unmapped items.
-- Coordinated with teammates to load the cleaned data into SQL.
-2. Dashboard build
+- Coordinated with teammates to load the cleaned data into SQL.<br>
+
+Dashboard build
 - Queried SQL as the single source for Power BI.
 - Performed one-time data shaping in Power Query.
 - Wrote DAX measures, built visuals, and extracted insights.
+
 ## *Output:*
 - Customer demographics
 - Purchase overview: incidence rate by product, category, and brand
@@ -57,9 +62,11 @@ Collected store-level data through mystery shopping: surveyed sellers on Milo SK
 - Built the dimensional model and relationships for the dashboard.
 - Wrote DAX measures to compute KPIs and surface insights.
 - Leveraged tooltips for quick, in-context data views.
+
 ## *Output:*
 - Presence rates of Milo SKUs and POSM types across stores.
 - Sellers’ perceptions of Milo products compared with market alternatives.
+
 ## *Dashboard:*
 ### Log-in Page
 ![Log-in Page](Image/Milo/1.png)
