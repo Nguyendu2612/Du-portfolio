@@ -7,9 +7,9 @@ Data were gathered through an audit approach — collecting receipts, counting c
 ## *My Role:*
 Clarified Client's requirements and desired outputs.
 ### Cleaning Data:
-Cleaned ~100 receipts over a two-week collection period.
-Reviewed video footage to tally store foot traffic.
-Used Power Query to re-clean the dataset and set proper data types.
+- Cleaned ~100 receipts over a two-week collection period.
+- Reviewed video footage to tally store foot traffic.
+- Used Power Query to re-clean the dataset and set proper data types.
 ### Building model and creating Dashboard:
 Built a data model, dimenstion to establish relationships for analysis.
 Wrote DAX measures, drill through to create interactive dashboards and give insights.
