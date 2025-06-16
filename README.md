@@ -6,11 +6,11 @@
 Data were gathered through an audit approach — collecting receipts, counting customer traffic in predefined time slots agreed with the client, scanning each receipt with the company tool, and capturing all key fields.
 ## *My Role:*
 Clarified Client's requirements and desired outputs.
-### Cleaning Data:
+Cleaning Data:
 - Cleaned ~100 receipts over a two-week collection period.
 - Reviewed video footage to tally store foot traffic.
 - Used Power Query to re-clean the dataset and set proper data types.
-### Building model and creating Dashboard:
+Building model and creating Dashboard:
 - Built a data model, dimenstion to establish relationships for analysis.
 - Wrote DAX measures, drill through to create interactive dashboards and give insights.
 ## *Output:*
@@ -30,11 +30,11 @@ Clarified Client's requirements and desired outputs.
 ## *Project Overview:*
 Project used an in-house app (with AI OCR) to collect user receipts.
 ## *My Role:*
-### Data cleaning & mapping
+Data cleaning & mapping
 - Standardized and mapped ~550 receipts to the product master list.
 - Created new master records (industry / category / class / sub-class) for unmapped items.
 - Coordinated with teammates to load the cleaned data into SQL.
-### Dashboard build
+Dashboard build
 - Queried SQL as the single source for Power BI.
 - Performed one-time data shaping in Power Query.
 - Wrote DAX measures, built visuals, and extracted insights.
