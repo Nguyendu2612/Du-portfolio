@@ -12,10 +12,10 @@ Cleaning Data:
 - Used Power Query to re-clean the dataset and set proper data types.
 Building model and creating Dashboard:
 - Built a data model, dimenstion to establish relationships for analysis.
-- Wrote DAX measures, drill through to create interactive dashboards and give insights.
+- Wrote DAX measures, drill through to create interactive dashboards and give insights.<br>
 ## *Output:*
 - Estimated weekly and monthly revenue
-- Estimated weekly and monthly traffic
+- Estimated weekly and monthly traffic<br>
 ## *Dashboard:*
 ### Log-in Page
 ![Log-in Page](Image/Fama/Begin.png)
