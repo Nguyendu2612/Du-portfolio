@@ -1,7 +1,7 @@
 # Dashboard's Portfolio
-*For confidentiality reasons related to previous projects, the brand data shown is fictional and for illustrative purposes only. Consequently, insights derived from this data may not reflect actual market realities.*
+*❗For confidentiality reasons related to previous projects, the brand data shown is fictional and for illustrative purposes only. Consequently, insights derived from this data may not reflect actual market realities.*
 # 📊Project 1: Competitor Analysis Dashboard
-# ===========================================
+# ================================
 ## *Project Overview:*
 Data were gathered through an audit approach — collecting receipts, counting customer traffic in predefined time slots agreed with the client, scanning each receipt with the company tool, and capturing all key fields.
 ## *My Role:*
@@ -26,7 +26,7 @@ Estimated weekly and monthly traffic
 ### Tooltip Page
 ![Tooltip Page](Image/Fama/1.3.png)
 # 🛍️Project 2: Retail Basket Analytics
-# ===========================================
+# ================================
 ## *Project Overview:*
 Project used an in-house app (with AI OCR) to collect user receipts.
 ## *My Role:*
@@ -50,7 +50,7 @@ Cross-selling analysis (co-occurrence rate of two products in one basket)
 ![](Image/Lotte/2.png)
 ![](Image/Lotte/3.png)
 # 🏷️Project 3: Store Promotion Report
-# ===========================================
+# ================================
 ## *Project Overview:*
 Collected store-level data through mystery shopping: surveyed sellers on Milo SKU prices (per client brief) and recorded whether POSM materials (standee, booth, pallet) were present.
 ## *My Role:*
@@ -70,7 +70,7 @@ Sellers’ perceptions of Milo products compared with market alternatives.
 ### MAP Page
 ![MAP Page](Image/Milo/4.png)
 # 🔥Project 4: Users Uploading Streak Dashboard
-# ===========================================
+# ================================
 ## *Project Overview:*
 This is a small task within our team's project focused on analyzing user shopping behavior through uploaded receipts. The dashboard will analyze the data and identify panelists meeting certain criteria, such as:
 *Uploading more than 10 receipts within 30 days
@@ -85,3 +85,13 @@ Employed DAX functions to analyze data according to specified criteria (using Ro
 ## *Output:*
 Generated a monthly list of qualified panelists within specified time periods.
 ## *Dashboard:*
+![First Version](Image/Panelist/1.png)
+This version uses HTML to customize streak calculation, displaying streaks by week within specific timeframes. However, since users need to download Excel files, it must revert to raw data.
+![First Version - QC Page](Image/Panelist/2.png)
+This is a drill-through page used for quality control, allowing checks on previously selected panelists.
+![Second Version](Image/Panelist/3.png)
+This page has been adjusted according to user requirements and is currently filtered to display all panelists.
+![Second Version - Filtered](Image/Panelist/4.png)
+This page is filtered to show panelists with the highest streaks in June.
+![Second Version - Filtered](Image/Panelist/5.png)
+This is the page where users requested additional conditions to calculate streaks for individual panelists
