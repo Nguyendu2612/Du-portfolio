@@ -50,6 +50,7 @@ Dashboard build
 - Average order value
 - Average categories per transaction
 - Cross-selling analysis (co-occurrence rate of two products in one basket)
+
 ## *Dashboard:*
 ![](Image/Lotte/1.png)
 ![](Image/Lotte/2.png)
@@ -58,7 +59,9 @@ Dashboard build
 # ================================
 ## *Project Overview:*
 Collected store-level data through mystery shopping: surveyed sellers on Milo SKU prices (per client brief) and recorded whether POSM materials (standee, booth, pallet) were present.
+
 ## *My Role:*
+
 - Built the dimensional model and relationships for the dashboard.
 - Wrote DAX measures to compute KPIs and surface insights.
 - Leveraged tooltips for quick, in-context data views.
@@ -84,11 +87,14 @@ This is a small task within our team's project focused on analyzing user shoppin
 - *Participating for more than 7 days*
 - *Having a rejection rate below 20%*
 - *Not being included in the blocked respondents list*
+
 ## *My Role:*
+
 - Received the requirements and conducted detailed discussions to fully understand the teammate's needs.
 - Requested data sourcing from the team via Power BI data flows (from the team's database). *(Due to time constraints, I have not yet had the opportunity to thoroughly learn about these data flows.)*
 - Utilized Power Query to clean and format data for analysis (e.g., filtering out blanks in the Phone field, creating a dim_calendar table, sorting by MonthYear or WeekNum).
 - Employed DAX functions to analyze data according to specified criteria (using Row Context).
+
 ## *Output:*
 Generated a monthly list of qualified panelists within specified time periods.
 ## *Dashboard:*
