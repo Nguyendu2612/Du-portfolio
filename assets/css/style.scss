@@ -7,7 +7,8 @@ a {
   color: #4bdfff !important;
 }
 
-footer.site-footer { 
-  display: none !important; 
+footer.site-footer {
+  height: 0 !important;
+  overflow: hidden !important;
 }
 
