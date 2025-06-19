@@ -1,7 +1,7 @@
 title: Nguyen Thanh Du (Heidy)
 logo: Image/Avata.jpg
 description: Data Analyst - Conquering Challenges - Data Enthusiast - Striving for Success
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 github:
   is_project_page: false  
 sass:
