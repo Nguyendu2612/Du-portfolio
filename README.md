@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 # Dashboard's Portfolio
 *❗For confidentiality reasons related to previous projects, the brand data shown is fictional and for illustrative purposes only. Consequently, insights derived from this data may not reflect actual market realities.*
 # 📊Project 1: Competitor Analysis Dashboard
