@@ -1,7 +1,13 @@
 title: Nguyen Thanh Du (Heidy)
 logo: Image/Avata.jpg
-description: 
- "<b>Data Analyst</b><br>Conquering Challenges - Data Enthusiast - Striving for Success"
+description: |
+  <b>Data Analyst</b>  
+  Conquering Challenges - Data Enthusiast  
+  - Striving for Success  
+  <br>
+  <a href="https://www.linkedin.com/in/nguyenthanhdu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" width="100"/>
+  </a>
 theme: jekyll-theme-minimal
 github:
   is_project_page: false  
