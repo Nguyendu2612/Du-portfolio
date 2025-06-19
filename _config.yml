@@ -5,8 +5,8 @@ description: |
   Conquering Challenges - Data Enthusiast  
   - Striving for Success  
   <br>
-  <a href="https://www.linkedin.com/in/nguyenthanhdu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" width="100"/>
+  <a href="https://www.linkedin.com/in/nguyenthanhdu/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" style="border-radius: 50%; background: #0a66c2;"/>
   </a>
 theme: jekyll-theme-minimal
 github:
