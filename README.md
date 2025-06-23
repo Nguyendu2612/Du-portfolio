@@ -2,6 +2,7 @@
 *❗For confidentiality reasons related to previous projects, the brand data shown is fictional and for illustrative purposes only. Consequently, insights derived from this data may not reflect actual market realities.*
 # 📊Project 1: Competitor Analysis Dashboard
 # ================================
+### Project Workflow & business tasks
 <img src="Image/Pharmacity.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
 ## *Dashboard:*
 ### Log-in Page
@@ -14,6 +15,7 @@
 <img src="Image/Fama/1.3.png" alt="Tooltip Page" width="600" style="border-radius:20px;">
 # 🛍️Project 2: Retail Basket Analytics
 # ================================
+### Project Workflow & business tasks
 <img src="Image/Lotte.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
 ## *Dashboard:*
 <img src="Image/Lotte.pngImage/Lotte/1.png" alt="" width="600" style="border-radius:20px;">
@@ -36,13 +38,13 @@ Collected store-level data through mystery shopping: surveyed sellers on Milo SK
 
 ## *Dashboard:*
 ### Log-in Page
-![Log-in Page](Image/Milo/1.png)
+<img src="Image/Milo/1.png" alt="Log-in Page" width="600" style="border-radius:20px;">
 ### Summary Page
-![Summary Page](Image/Milo/2.png)
+<img src="Image/Milo/2.png" alt="Summary Page" width="600" style="border-radius:20px;">
 ### Detail Page
-![Detail Page](Image/Milo/3.png)
-### MAP Page
-![MAP Page](Image/Milo/4.png)
+<img src="Image/Milo/3.png" alt="Detail Page" width="600" style="border-radius:20px;">
+### Map POSM distribution Page
+<img src="Image/Milo/4.png" alt="MAP Page" width="600" style="border-radius:20px;">
 # 🔥Project 4: Users Uploading Streak Dashboard
 # ================================
 ## *Project Overview:*
@@ -62,13 +64,18 @@ This is a small task within our team's project focused on analyzing user shoppin
 ## *Output:*
 Generated a monthly list of qualified panelists within specified time periods.
 ## *Dashboard:*
-![First Version](Image/Panelist/1.png)
+### First Version
 This version uses HTML to customize streak calculation, displaying streaks by week within specific timeframes. However, since users need to download Excel files, it must revert to raw data.
-![First Version - QC Page](Image/Panelist/2.png)
+<img src="Image/Panelist/1.png" alt="First Version" width="600" style="border-radius:20px;">
+### First Version - QC Page
 This is a drill-through page used for quality control, allowing checks on previously selected panelists.
-![Second Version](Image/Panelist/3.png)
+<img src="Image/Panelist/2.png" alt="First Version - QC Page" width="600" style="border-radius:20px;">
+### Second Version
 This page has been adjusted according to user requirements and is currently filtered to display all panelists.
-![Second Version - Filtered](Image/Panelist/4.png)
+<img src="Image/Panelist/3.png" alt="Second Version" width="600" style="border-radius:20px;">
+### Second Version - Filtered
 This page is filtered to show panelists with the highest streaks in June.
-![Second Version - Filtered](Image/Panelist/5.png)
+<img src="Image/Panelist/4.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
 This is the page where users requested additional conditions to calculate streaks for individual panelists
+<img src="Image/Panelist/5.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
+
