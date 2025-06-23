@@ -10,7 +10,7 @@ I’m a curious and dedicated data lover, always eager to learn and quick to pic
 # 📊Project 1: Competitor Analysis Dashboard
 # ================================
 ### Project Workflow & business tasks
-<img src="Image/Pharmacity.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
+<img src="Image/Pharmacity.png" alt="Project Workflow & business tasks" width="1000" style="border-radius:20px;">
 ## *Dashboard:*
 ### Log-in Page
 <img src="Image/Fama/Begin.png" alt="Log-in Page" width="600" style="border-radius:20px;">
@@ -23,7 +23,7 @@ I’m a curious and dedicated data lover, always eager to learn and quick to pic
 # 🛍️Project 2: Retail Basket Analytics
 # ================================
 ### Project Workflow & business tasks
-<img src="Image/Lotte.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
+<img src="Image/Lotte.png" alt="Project Workflow & business tasks" width="1000" style="border-radius:20px;">
 ## *Dashboard:*
 <img src="Image/Lotte.pngImage/Lotte/1.png" alt="" width="600" style="border-radius:20px;">
 <img src="Image/Lotte.pngImage/Lotte/2.png" alt="" width="600" style="border-radius:20px;">
