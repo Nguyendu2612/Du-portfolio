@@ -1,61 +1,24 @@
-<link rel="stylesheet" href="assets/css/style.css">
 # Dashboard's Portfolio
 *❗For confidentiality reasons related to previous projects, the brand data shown is fictional and for illustrative purposes only. Consequently, insights derived from this data may not reflect actual market realities.*
 # 📊Project 1: Competitor Analysis Dashboard
 # ================================
-## *Project Overview:*
-Data were gathered through an audit approach — collecting receipts, counting customer traffic in predefined time slots agreed with the client, scanning each receipt with the company tool, and capturing all key fields.
-## *My Role:*
-Clarified Client's requirements and desired outputs.<br>
-Cleaning Data
-- Cleaned ~100 receipts over a two-week collection period.
-- Reviewed video footage to tally store foot traffic.
-- Used Power Query to re-clean the dataset and set proper data types.<br>
-
-Building model and creating Dashboard:
-- Built a data model, dimenstion to establish relationships for analysis.
-- Wrote DAX measures, drill through to create interactive dashboards and give insights.
-
-## *Output:*
-- Estimated weekly and monthly revenue
-- Estimated weekly and monthly traffic<br>
-
+<img src="Image/Pharmacity.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
 ## *Dashboard:*
 ### Log-in Page
-![Log-in Page](Image/Fama/Begin.png)
+<img src="Image/Fama/Begin.png" alt="Log-in Page" width="600" style="border-radius:20px;">
 ### Analytics Page
-![Analytics Page](Image/Fama/1.png)
+<img src="Image/Fama/1.png" alt="Analytics Page" width="600" style="border-radius:20px;">
 ### Detailed Page
-![Detailed Page](Image/Fama/1.2.png)
+<img src="Image/Fama/1.2.png" alt="Detailed Page" width="600" style="border-radius:20px;">
 ### Tooltip Page
-![Tooltip Page](Image/Fama/1.3.png)
+<img src="Image/Fama/1.3.png" alt="Tooltip Page" width="600" style="border-radius:20px;">
 # 🛍️Project 2: Retail Basket Analytics
 # ================================
-## *Project Overview:*
-Project used an in-house app (with AI OCR) to collect user receipts.
-## *My Role:*
-Data cleaning & mapping
-- Standardized and mapped ~550 receipts to the product master list.
-- Created new master records (industry / category / class / sub-class) for unmapped items.
-- Coordinated with teammates to load the cleaned data into SQL.<br>
-
-Dashboard build
-- Queried SQL as the single source for Power BI.
-- Performed one-time data shaping in Power Query.
-- Wrote DAX measures, built visuals, and extracted insights.
-
-## *Output:*
-- Customer demographics
-- Purchase overview: incidence rate by product, category, and brand
-- Average SKUs per transaction
-- Average order value
-- Average categories per transaction
-- Cross-selling analysis (co-occurrence rate of two products in one basket)
-
+<img src="Image/Lotte.png" alt="Project Workflow & business tasks" width="600" style="border-radius:20px;">
 ## *Dashboard:*
-![](Image/Lotte/1.png)
-![](Image/Lotte/2.png)
-![](Image/Lotte/3.png)
+<img src="Image/Lotte.pngImage/Lotte/1.png" alt="" width="600" style="border-radius:20px;">
+<img src="Image/Lotte.pngImage/Lotte/2.png" alt="" width="600" style="border-radius:20px;">
+<img src="Image/Lotte.pngImage/Lotte/3.png" alt="" width="600" style="border-radius:20px;">
 # 🏷️Project 3: Store Promotion Report
 # ================================
 ## *Project Overview:*
