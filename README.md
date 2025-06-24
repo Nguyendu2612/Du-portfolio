@@ -5,7 +5,8 @@ I’m a curious and dedicated data lover, always eager to learn and quick to pic
 
 **Short-term:** Gain a strong grasp of the Data Analyst workflow and ETL, quickly mastering SQL, Power BI, Python, and other tools. Use my youthful energy to contribute to company’s (skateholder's) projects and deliver valuable insights that support better financial solutions and smarter consumer choices for customers.
 
-**Long-term:** Become a Senior Data Analyst who builds customer insight platforms and drives business growth from user feedback. Grow into a T-shaped individual—broadening my knowledge across data, AI, and BI, while also developing deep expertise in these areas.
+**Long-term:** Become a Senior Data Analyst who builds customer insight platforms and drives business growth from user feedback. Grow into a T-shaped individual—broadening my knowledge across data, AI, and BI, while also developing deep expertise in these areas. I also aim to expand my skill set in programming languages such as Python, SQL, and R, while learning to work with APIs (e.g., RESTful API) to automate data pipelines and integrate external data sources into analysis workflows.
+
 # --------------------------------
 # 📊Project 1: Competitor Analysis Dashboard
 # ================================
@@ -25,9 +26,9 @@ I’m a curious and dedicated data lover, always eager to learn and quick to pic
 ### Project Workflow & business tasks
 <img src="Image/Lotte.png" alt="Project Workflow & business tasks" width="1000" style="border-radius:20px;">
 ## *Dashboard:*
-<img src="Image/Lotte.pngImage/Lotte/1.png" alt="" width="600" style="border-radius:20px;">
-<img src="Image/Lotte.pngImage/Lotte/2.png" alt="" width="600" style="border-radius:20px;">
-<img src="Image/Lotte.pngImage/Lotte/3.png" alt="" width="600" style="border-radius:20px;">
+<img src="Image/Lotte/1.png" alt=" " width="600" style="border-radius:20px;">
+<img src="Image/Lotte/2.png" alt=" " width="600" style="border-radius:20px;">
+<img src="Image/Lotte/3.png" alt=" " width="600" style="border-radius:20px;">
 # 🏷️Project 3: Store Promotion Report
 # ================================
 ## *Project Overview:*
