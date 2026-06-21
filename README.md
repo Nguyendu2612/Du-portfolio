@@ -29,9 +29,46 @@ An ongoing, continuously running panel project (no fixed end date) that captures
 - v.v
 ## *Dashboard:*
 *⚠️ Note: This is a live, ongoing client project. Real dashboard screens cannot be shared due to data privacy. The screenshots below are self-captured samples with all sensitive data masked/replaced, shown to illustrate the structure and design of the dashboard only.*
-<img src="Image/Dashboard.png" width="600" style="border-radius:20px;">
+<img src="Image/Dashboard.png" width="800" style="border-radius:20px;">
 ### *App using to collect data:*
+<img src="Image/App.jpg" width="300" style="border-radius:20px;">
 
+<a name="Operations-dashboard"></a>
+# 🔥Panel Operations Mini-Dashboard (Users Uploading Streak)
+# ================================
+*Internal ops tool · supports [Project 1 – Shopper Receipt Tracking & Behavior Analytics](#project-1)*
+
+## *Project Overview:*
+A small, focused mini-dashboard built as an operational support tool for the receipt-tracking panel in Project 1. Rather than being a standalone analytics deliverable, it's used internally to monitor panelist data quality and eligibility — making sure the upstream receipt data feeding Project 1's trend/co-purchase/ranking analysis comes from active, qualified panelists. The dashboard identifies panelists meeting operational criteria, such as:
+- *Uploading more than 10 receipts within 30 days*
+- *Participating for more than 7 days*
+- *Having a rejection rate below 20%*
+- *Not being included in the blocked respondents list*
+
+## *My Role:*
+
+- Received the requirements and conducted detailed discussions to fully understand the teammate's needs.
+- Requested data sourcing from the team via Power BI data flows (from the team's database).
+- Utilized Power Query to clean and format data for analysis (e.g., filtering out blanks in the Phone field, creating a dim_calendar table, sorting by MonthYear or WeekNum...).
+- Employed DAX functions to analyze data according to specified criteria (using Row Context or Measure depends on Result).
+
+## *Output:*
+Generated a monthly list of qualified panelists within specified time periods, used to keep Project 1's panel composition clean and eligible.
+## *Dashboard:*
+### First Version
+This version uses HTML to customize streak calculation, displaying streaks by week within specific timeframes. However, since users need to download Excel files, it must revert to raw data.
+<img src="Image/Panelist/1.png" alt="First Version" width="600" style="border-radius:20px;">
+### First Version - QC Page
+This is a drill-through page used for quality control, allowing checks on previously selected panelists.
+<img src="Image/Panelist/2.png" alt="First Version - QC Page" width="600" style="border-radius:20px;">
+### Second Version
+This page has been adjusted according to user requirements and is currently filtered to display all panelists.
+<img src="Image/Panelist/3.png" alt="Second Version" width="600" style="border-radius:20px;">
+### Second Version - Filtered
+This page is filtered to show panelists with the highest streaks in June.
+<img src="Image/Panelist/4.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
+This is the page where users requested additional conditions to calculate streaks for individual panelists
+<img src="Image/Panelist/5.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
 # --------------------------------
 # 📊Project 2: Competitor Analysis Dashboard
 # ================================
@@ -78,36 +115,3 @@ Collected store-level data through mystery shopping: surveyed sellers on Milo SK
 <img src="Image/Milo/3.png" alt="Detail Page" width="600" style="border-radius:20px;">
 ### Map POSM distribution Page
 <img src="Image/Milo/4.png" alt="MAP Page" width="600" style="border-radius:20px;">
-# 🔥Project 5: Users Uploading Streak Dashboard
-# ================================
-## *Project Overview:*
-This is a small task within our team's project focused on analyzing user shopping behavior through uploaded receipts. The dashboard will analyze the data and identify panelists meeting certain criteria, such as:
-- *Uploading more than 10 receipts within 30 days*
-- *Participating for more than 7 days*
-- *Having a rejection rate below 20%*
-- *Not being included in the blocked respondents list*
-
-## *My Role:*
-
-- Received the requirements and conducted detailed discussions to fully understand the teammate's needs.
-- Requested data sourcing from the team via Power BI data flows (from the team's database). *(Due to time constraints, I have not yet had the opportunity to thoroughly learn about these data flows.)*
-- Utilized Power Query to clean and format data for analysis (e.g., filtering out blanks in the Phone field, creating a dim_calendar table, sorting by MonthYear or WeekNum).
-- Employed DAX functions to analyze data according to specified criteria (using Row Context).
-
-## *Output:*
-Generated a monthly list of qualified panelists within specified time periods.
-## *Dashboard:*
-### First Version
-This version uses HTML to customize streak calculation, displaying streaks by week within specific timeframes. However, since users need to download Excel files, it must revert to raw data.
-<img src="Image/Panelist/1.png" alt="First Version" width="600" style="border-radius:20px;">
-### First Version - QC Page
-This is a drill-through page used for quality control, allowing checks on previously selected panelists.
-<img src="Image/Panelist/2.png" alt="First Version - QC Page" width="600" style="border-radius:20px;">
-### Second Version
-This page has been adjusted according to user requirements and is currently filtered to display all panelists.
-<img src="Image/Panelist/3.png" alt="Second Version" width="600" style="border-radius:20px;">
-### Second Version - Filtered
-This page is filtered to show panelists with the highest streaks in June.
-<img src="Image/Panelist/4.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
-This is the page where users requested additional conditions to calculate streaks for individual panelists
-<img src="Image/Panelist/5.png" alt="Second Version - Filtered" width="600" style="border-radius:20px;">
