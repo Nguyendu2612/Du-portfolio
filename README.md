@@ -30,17 +30,6 @@ An ongoing, continuously running panel project (no fixed end date) that captures
 ## *Dashboard:*
 *⚠️ Note: This is a live, ongoing client project. Real dashboard screens cannot be shared due to data privacy. The screenshots below are self-captured samples with all sensitive data masked/replaced, shown to illustrate the structure and design of the dashboard only.*
 
-### Log-in Page
-<img src="Image/Receipt/1.png" alt="Log-in Page" width="600" style="border-radius:20px;">
-### Trend Summary Page
-<img src="Image/Receipt/2.png" alt="Trend Summary Page" width="600" style="border-radius:20px;">
-### Co-purchase / Basket Analysis Page
-<img src="Image/Receipt/3.png" alt="Co-purchase Page" width="600" style="border-radius:20px;">
-### Brand & SKU Ranking Page
-<img src="Image/Receipt/4.png" alt="Brand and SKU Ranking Page" width="600" style="border-radius:20px;">
-### Shopper Journey Page
-<img src="Image/Receipt/5.png" alt="Shopper Journey Page" width="600" style="border-radius:20px;">
-### Detail / Tooltip Page
 <img src="Image/Receipt/6.png" alt="Detail and Tooltip Page" width="600" style="border-radius:20px;">
 
 # --------------------------------
