@@ -26,11 +26,11 @@ An ongoing, continuously running panel project (no fixed end date) that captures
 - **Co-purchase / market basket analysis** — which SKUs and brands are bought together
 - **Brand & SKU ranking** — share of wallet, penetration, repeat purchase rate
 - **Shopper behavior & journey** — purchase frequency, store preference, switching patterns across time
-
+- v.v
 ## *Dashboard:*
 *⚠️ Note: This is a live, ongoing client project. Real dashboard screens cannot be shared due to data privacy. The screenshots below are self-captured samples with all sensitive data masked/replaced, shown to illustrate the structure and design of the dashboard only.*
 <img src="Image/Dashboard.png" width="600" style="border-radius:20px;">
-### Analytics Page
+### *App using to collect data:*
 
 # --------------------------------
 # 📊Project 2: Competitor Analysis Dashboard
