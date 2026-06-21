@@ -29,8 +29,8 @@ An ongoing, continuously running panel project (no fixed end date) that captures
 
 ## *Dashboard:*
 *⚠️ Note: This is a live, ongoing client project. Real dashboard screens cannot be shared due to data privacy. The screenshots below are self-captured samples with all sensitive data masked/replaced, shown to illustrate the structure and design of the dashboard only.*
-
-<img src="Image/Receipt/6.png" alt="Detail and Tooltip Page" width="600" style="border-radius:20px;">
+<img src="Image/Dashboard.png" width="600" style="border-radius:20px;">
+### Analytics Page
 
 # --------------------------------
 # 📊Project 2: Competitor Analysis Dashboard
