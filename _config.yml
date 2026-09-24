@@ -1,5 +1,6 @@
 title: Nguyen Thanh Du (Adrian)
 logo: Image/AVA NEW.jpg
+
 description: |
   <br> <strong> Power BI Developer </strong> <br> 
   Conquering Challenges - Data Enthusiast  
@@ -9,9 +10,11 @@ description: |
   <a href="https://www.linkedin.com/in/nguyenthanhdu/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" style="border-radius: 50%; background: #0a66c2;"/>
   </a>
+
 theme: jekyll-theme-minimal
+
 github:
-  is_project_page: false  
+  is_project_page: false
+
 sass:
-  style: compressed   
-footer.site-footer { display: none !important; }
+  style: compressed
